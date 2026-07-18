@@ -1,11 +1,15 @@
-.navbar{
-   background-color: #6CAEED; 
+html{
+    scroll-behavior: smooth;
+    scroll-padding-top: 100px;
 }
 
-.navdiv{
+.navbar{
+   background-color: #6CAEED;
    display: flex;
    align-items: center;
    justify-content: space-between;
+   position: sticky;
+    top: 0;
 }
 
 .logo a{
