@@ -3,6 +3,10 @@ html{
     scroll-padding-top: 100px;
 }
 
+body{
+    text-align: center;
+}
+
 .navbar{
    background-color: #6CAEED;
    display: flex;
@@ -43,4 +47,10 @@ button a{
     font-size: 18px;
     font-weight: bold;
     text-decoration: none;
+}
+
+svg{
+    color: #6CAEED;
+    width: 40px;
+    height: 40px;
 }
