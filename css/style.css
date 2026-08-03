@@ -5,10 +5,11 @@ html{
 
 body{
     text-align: center;
+    background-color: #f6f1e8;
 }
 
 .navbar{
-   background-color: #6CAEED;
+   background-color: #573b29;
    display: flex;
    align-items: center;
    justify-content: space-between;
@@ -19,7 +20,7 @@ body{
 .logo a{
     font-size: 35px;
     font-weight: 600;
-    color: white;
+    color: #f6f1e8;
 }
 
 li{
@@ -30,7 +31,7 @@ li{
 li a{
     font-size: 18px;
     font-weight: bold;
-    color: white;
+    color: #f6f1e8;
     margin-right: 25px;
 }
 
@@ -43,14 +44,14 @@ button{
 }
 
 button a{
-    color: white;
+    color: #f6f1e8;
     font-size: 18px;
     font-weight: bold;
     text-decoration: none;
 }
 
 svg{
-    color: #6CAEED;
+    color: #573b29;
     width: 40px;
     height: 40px;
 }
